@@ -19,7 +19,7 @@
 
 <a href="https://github.com/DinowSauron"><img 
 src="https://github-readme-stats.vercel.app/api?username=DinowSauron&icon_color=039f02&show_icons=true&theme=dracula&title_color=039f02&include_all_commits=true&count_private=true" alt="Luiz Claudio GitHub profile reputation"/></a>
-<a href="https://github.com/DinowSauron"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinowSauron&layout=compact&card_width=300&title_color=039f02&theme=dracula" alt="Luiz Claudio code usage"/></a>
+<a href="https://github.com/DinowSauron"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinowSauron&layout=compact&card_width=300px&title_color=039f02&theme=dracula" alt="Luiz Claudio code usage"/></a>
 </p>
 
 ---
