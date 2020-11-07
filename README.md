@@ -11,7 +11,7 @@
  <p>:book: Studyng: <strong>Javascript, HTML5, CSS3;</strong ></p>
  <p>:link: My Linked In: <a href="https://www.linkedin.com/in/luiz-claudio-b5b3b21b8/"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="Linkedin Profile" /></a> </p>
  <p>:game_die: Check my 3D Models: <a href="#"><img src="https://img.shields.io/badge/-Coming%20Soon-lightgrey" alt="Models 3D In Coming soon..." /></a> </p>
- <p>:page_facing_up: Check my Repositories: <a href="https://github.com/DinowSauron?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-DarkGreen" alt="Git Repositories" /></a> </p>
+ <p>:page_facing_up: Check my Repositories: <a href="https://dinowsauron.github.io/"><img src="https://img.shields.io/badge/GitHub-Repositories-DarkGreen" alt="Git Repositories" /></a> </p>
  <p>:pushpin: Check my Channel: <a href="https://www.youtube.com/c/THERedstoneBR"><img src="https://img.shields.io/badge/Youtube-The%20Redstone%20BR-red" alt="The Redstone BR"/></a> </p>
 
 
