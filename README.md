@@ -22,7 +22,7 @@ width="45%" align="right"/>
 </p>
 
 <p align="justify">
-&nbsp; Estudante de desenvolvimento web Front-End e Back-End com conhecimentos de programação básica, no momento, não possuindo emprego e estou a procura do meu primeiro trabalho na área !
+Estudante de desenvolvimento web Front-End e Back-End com conhecimentos de programação, e desenvolvimento de aplicações para a Web, no momento, não possuindo emprego e estou a procura do meu primeiro trabalho nesta área !
 </p>
 
 
@@ -30,32 +30,32 @@ width="45%" align="right"/>
 
 <ul type="none">
     <li>
-    <p>📘 Sempre estudando 📘</p>
+    <p>📘 #NeverStopLearning 📘</p>
     </li>
 <br>
     <li>
-        <p>🚀 Conhecimento: <strong>C#, Unity3D, Blender, Python, HTML5, CSS3;</strong> </p>
+        <p>🚀 Conhecimentos: <strong>C#, Unity3D, Blender, Python, HTML5, CSS3;</strong> </p>
     </li>
     <li>
         <p>📖 Estudando: <strong>Javascript, React, Next.js, TypeScript;</strong ></p>
     </li>
     <li>
-        <p>🔗 My Linked In: <a href="https://www.linkedin.com/in/luiz-claudio-b5b3b21b8/"><img src="https://img.shields.io/badge/-LinkedIn-blue" 
+        <p>🔗 My Linked In: <a href="https://www.linkedin.com/in/luiz-claudio-cardoso/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" 
         alt="Linkedin Profile" 
         title="Linked-in profile"/></a> </p>
     </li>
     <li>
-        <p>🎲 Check my 3D Models: <a href="#"><img src="https://img.shields.io/badge/-Coming%20Soon-lightgrey" 
-        alt="Models 3D In Coming soon..." 
-        title="Não Disponível..."/></a> </p>
-    </li>
-    <li>
-        <p>📄 Check my Repositories: <a href="https://dinowsauron.github.io/"><img src="https://img.shields.io/badge/GitHub-Repositories-DarkGreen" 
+        <p>📄 Repositorios: <a href="https://github.com/DinowSauron?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-DarkGreen" 
         alt="Git Repositories" 
         title="Detalhes dos Repositorios"/></a> </p>
     </li>
     <li>
-        <p>📌 Check my Channels:
+        <p>🎲 Modelos em 3D: <a href="#"><img src="https://img.shields.io/badge/-Coming%20Soon-lightgrey" 
+        alt="Models 3D In Coming soon..." 
+        title="Não Disponível..."/></a> </p>
+    </li>
+    <li>
+        <p>📌 Canais No Youtube:
          <ul >
              <li><a href="https://www.youtube.com/c/THERedstoneBR"><img src="https://img.shields.io/badge/Youtube-The%20Redstone%20BR-red" 
              alt="The Redstone BR"
