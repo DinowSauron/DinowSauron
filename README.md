@@ -30,7 +30,7 @@ Estudante de desenvolvimento web Front-End e Back-End com conhecimentos de progr
 
 <ul type="none">
     <li>
-    <p>📘 #NeverStopLearning 📘</p>
+    <p align="center">📘 #NeverStopLearning 📘</p>
     </li>
 <br>
     <li>
