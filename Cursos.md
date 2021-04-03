@@ -21,8 +21,6 @@
     Alguns deles possuindo diploma! indicado pelo simbolo (<a href="#" title="Certificado">📜</a>). Clique sobre ele para visualizar o certificado.
     Nem Todos a visualização está disponivel, pois estão em processo de emissão.
 </p>
-
-
 <br>
 <br>
 
@@ -31,16 +29,16 @@
 ## Eventos:
 
 * [**Rocketseat:**](https://rocketseat.com.br/)
-    * Next Level Week #3.
-    * Next Level Week #4.
-    * Next Level Week #5.
+    * <span>Next Level Week #3.</span>
+    * <span>Next Level Week #4.</span>
+    * <span>Next Level Week #5.</span>
 
-    * [📜](./Certificados/certificado-dowhile.pdf) DoWhile 2020.
+    * [📜](./Certificados/certificado-dowhile.pdf) <span>DoWhile 2020.</span>
 <br>
 
 
 * [**Alura:**](https://www.alura.com.br/)
-    * Imersão DEV_ #2
+    * <span>Imersão DEV_ #2</span>
 
 
 
@@ -51,7 +49,7 @@
 ## Cursos:
 
 * [**Rocketseat:**](https://rocketseat.com.br/)
-    * Discover *(Html5, Css3, JS, git, github)*
+    * <span>Discover <em>(Html5, Css3, JS, git, github)</em></span>
 <br>
 
 * [**Curso Em Vídeo:**](https://www.cursoemvideo.com/)
@@ -63,15 +61,15 @@
 <br>
 
 * [**W3C - W3Schools:**](https://www.w3schools.com/)
-    * Html5.
+    * <span>Html5.</span>
 <br>
 
 * [**Faetec:**](http://www.faetec.rj.gov.br/)
     * [📜](./Certificados/Certificado-Windows1.jpg) <span title="60 Hrs">Informática - Windows 1.</span>
     * [📜](./Certificados/Certificado-Windows2.jpg) <span title="60 Hrs">Informática - Windows 2.</span>
-    * 📜 Excel.
+    * 📜 <span>Excel.</span>
     * [📜](./Certificados/Certificado-Montagem.jpg) <span title="160 Hrs"> Montagem e Manuntenção de Computadores.</span>
-    * 📜 Editoração Eletrônica.
+    * 📜 <span>Editoração Eletrônica.</span>
 <br>    
 
 * [**Nave do Conhecimento:**](https://navedoconhecimento.rio/)
