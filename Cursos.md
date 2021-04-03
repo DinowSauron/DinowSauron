@@ -33,7 +33,7 @@
 * [**Rocketseat:**](https://rocketseat.com.br/)
     * Next Level Week #3.
     * Next Level Week #4.
-    <p hidden> * Next Level Week #5.</p>
+    * Next Level Week #5.
 
     * [📜](./Certificados/certificado-dowhile.pdf) DoWhile 2020.
 <br>
@@ -51,7 +51,7 @@
 ## Cursos:
 
 * [**Rocketseat:**](https://rocketseat.com.br/)
-    * Discover *(Html5, Css3, JS<p hidden>*git, github*</p>)*
+    * Discover *(Html5, Css3, JS, git, github)*
 <br>
 
 * [**Curso Em Vídeo:**](https://www.cursoemvideo.com/)

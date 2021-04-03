@@ -12,7 +12,7 @@ width="45%" align="right" draggable="false"/>
 # Prazer, Luiz Claudio.
 
 <p align="center">
-  <a href="./Cursos">Cursos Realizados</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="./Cursos.md">Cursos Realizados</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://dinowsauron.github.io/">Destaques</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.google.com.br/maps/place/Realengo,+Rio+de+Janeiro+-+RJ/@-22.8784762,-43.4730305,13z/data=!3m1!4b1!4m5!3m4!1s0x9961d6352b312f:0xdbcc937520fa83fc!8m2!3d-22.8786514!4d-43.4285152"
   title="Endereço aproximado"
