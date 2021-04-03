@@ -55,11 +55,11 @@
 <br>
 
 * [**Curso Em Vídeo:**](https://www.cursoemvideo.com/)
-    * <p title="120 Hrs">Python 3 <em>(3 Modulos)</em>.</p>
-    * <p title="20 Hrs">Git & Github.</p>
-    * <p title="40 Hrs">Javascript.</p>
-    * <p title="40 Hrs">Html5 2013.</p>
-    * <p title="80 Hrs">Html5 & Css3 <em>(2 Modulos)</em>.</p>
+    * <span title="120 Hrs">Python 3 <em>(3 Modulos)</em>.</span>
+    * <span title="20 Hrs">Git & Github.</span>
+    * <span title="40 Hrs">Javascript.</span>
+    * <span title="40 Hrs">Html5 2013.</span>
+    * <span title="80 Hrs">Html5 & Css3 <em>(2 Modulos)</em>.</span>
 <br>
 
 * [**W3C - W3Schools:**](https://www.w3schools.com/)

@@ -30,7 +30,11 @@ Estudante de desenvolvimento web Front-End e Back-End com conhecimentos de progr
 
 <ul type="none">
     <li>
+<<<<<<< Updated upstream
     <p align="center">📘 #NeverStopLearning 📘</p>
+=======
+    <p align="center" >📘 #NeverStopLearning 📘</p>
+>>>>>>> Stashed changes
     </li>
 <br>
     <li>
