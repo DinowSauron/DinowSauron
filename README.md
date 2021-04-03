@@ -4,15 +4,15 @@
 
 <a href="https://github.com/DinowSauron">
 <img src="https://user-images.githubusercontent.com/68889180/95789465-f429ee00-0cb3-11eb-8415-0ae6a8811bc1.png" 
-alt="Cl-415" 
+alt="Avião de resgate 'Cl-415' modelado no Blender 3D" 
 title="Avião Cl-415 modelado no 'Blender 3D'"
-width="45%" align="right"/>
+width="45%" align="right" draggable="false"/>
 </a>
 
 # Prazer, Luiz Claudio.
 
 <p align="center">
-  <a href="https://github.com/DinowSauron?tab=repositories">Repositorios</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="./Cursos">Cursos Realizados</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://dinowsauron.github.io/">Destaques</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.google.com.br/maps/place/Realengo,+Rio+de+Janeiro+-+RJ/@-22.8784762,-43.4730305,13z/data=!3m1!4b1!4m5!3m4!1s0x9961d6352b312f:0xdbcc937520fa83fc!8m2!3d-22.8786514!4d-43.4285152"
   title="Endereço aproximado"
