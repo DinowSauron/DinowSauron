@@ -22,7 +22,7 @@
     Nem Todos a visualização está disponivel, pois estão em processo de emissão.
 </p>
 <p> 
-    Os Eventos que possuem projetos estão marcados com o simbolo (<a href="#" title="Projeto">📃</a>). Clique sobre ele para visualizar o projeto.
+    Os Eventos/Cursos que possuem projetos estão marcados com o simbolo (<a href="#" title="Projeto">📃</a>). Clique sobre ele para visualizar o projeto.
 <br>
 <br>
 
