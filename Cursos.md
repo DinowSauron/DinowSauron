@@ -18,9 +18,11 @@
     Aqui estão alguns Eventos/Cursos que participei ao longo do meu aprendizado, todos completados. 
 </p>
 <p>
-    Alguns deles possuindo diploma! indicado pelo simbolo (<a href="#" title="Certificado">📜</a>). Clique sobre ele para visualizar o certificado.
+    Alguns deles possuíndo diploma! indicado pelo simbolo (<a href="#" title="Certificado">📜</a>). Clique sobre ele para visualizar o certificado.
     Nem Todos a visualização está disponivel, pois estão em processo de emissão.
 </p>
+<p> 
+    Os Eventos que possuem projetos estão marcados com o simbolo (<a href="#" title="Projeto">📃</a>). Clique sobre ele para visualizar o projeto.
 <br>
 <br>
 
@@ -29,16 +31,16 @@
 ## Eventos:
 
 * [**Rocketseat:**](https://rocketseat.com.br/)
-    * <span>Next Level Week #3.</span>
-    * <span>Next Level Week #4.</span>
-    * <span>Next Level Week #5.</span>
-
-    * [📜](./Certificados/certificado-dowhile.pdf) <span>DoWhile 2020.</span>
+  * [📃](https://github.com/DinowSauron/Projeto-Next-Level-Week-3)<span>Next Level Week #3. <em>(HTML)</em></span>
+  * [📃](https://github.com/DinowSauron/Projeto-Next-Level-Week-4)<span>Next Level Week #4. <em>(React)</em></span>
+  * [📃](https://github.com/DinowSauron/Projeto-Next-Level-Week-5)<span>Next Level Week #5. <em>(React)</em></span>
+  * [📃](https://github.com/DinowSauron/Projeto-Next-Level-Week-6-Together)<span>Next Level Week #6. <em>(React)</em></span>
+  * [📜](./Certificados/certificado-dowhile.pdf) <span>DoWhile 2020.</span>
 <br>
 
 
 * [**Alura:**](https://www.alura.com.br/)
-    * <span>Imersão DEV_ #2</span>
+    * <span>Imersão DEV_ #2 (HTML)</span>
 
 
 
@@ -56,8 +58,8 @@
     * <span title="120 Hrs">Python 3 <em>(3 Modulos)</em>.</span>
     * <span title="20 Hrs">Git & Github.</span>
     * <span title="40 Hrs">Javascript.</span>
-    * <span title="40 Hrs">Html5 2013.</span>
-    * <span title="80 Hrs">Html5 & Css3 <em>(2 Modulos)</em>.</span>
+    * [📃](https://github.com/DinowSauron/GoogleGlass-UI_Clone)<span title="40 Hrs">Html5 2013.</span>
+    * [📃](https://github.com/DinowSauron/Curso-Em-Video_HTML5-CSS3)<span title="80 Hrs">Html5 & Css3 <em>(2 Modulos)</em>.</span>
 <br>
 
 * [**W3C - W3Schools:**](https://www.w3schools.com/)
@@ -73,5 +75,5 @@
 <br>    
 
 * [**Nave do Conhecimento:**](https://navedoconhecimento.rio/)
-    * [📜](./Certificados/certificado-nave-html.pdf) <span title="45 Hrs">Html5.</span>
+    * [📜](./Certificados/certificado-nave-html.pdf) | [📃](https://github.com/DinowSauron/Curso-Nave_Do_Conhecimento) <span title="45 Hrs">Html5.</span>
 <br>
