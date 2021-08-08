@@ -40,7 +40,8 @@
 
 
 * [**Alura:**](https://www.alura.com.br/)
-    * <span>Imersão DEV_ #2 (HTML)</span>
+  * Imersão DEV_ #2 <em>(HTML)</em>
+  * [📃](https://github.com/DinowSauron/Outerkut)Imersão React #2 <em>(ReactJS)</em>
 
 
 
