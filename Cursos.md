@@ -69,7 +69,7 @@
     * [📜](./Certificados/Certificado-Windows2.jpg) <span title="60 Hrs">Informática - Windows 2.</span>
     * 📜 <span>Excel.</span>
     * [📜](./Certificados/Certificado-Montagem.jpg) <span title="160 Hrs"> Montagem e Manuntenção de Computadores.</span>
-    * [📜](./Certificados/certificado-faetec.pdf) <span title="240 Hrs">Editoração Eletrônica.</span>
+    * [📜](./Certificados/certificado-editoraçao.pdf) <span title="240 Hrs">Editoração Eletrônica.</span>
 <br>    
 
 * [**Nave do Conhecimento:**](https://navedoconhecimento.rio/)
