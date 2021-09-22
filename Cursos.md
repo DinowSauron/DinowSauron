@@ -32,7 +32,6 @@
     * <span>Next Level Week #3.</span>
     * <span>Next Level Week #4.</span>
     * <span>Next Level Week #5.</span>
-
     * [📜](./Certificados/certificado-dowhile.pdf) <span>DoWhile 2020.</span>
 <br>
 
@@ -62,6 +61,7 @@
 
 * [**W3C - W3Schools:**](https://www.w3schools.com/)
     * <span>Html5.</span>
+    * <span>ReactJS.</span>
 <br>
 
 * [**Faetec:**](http://www.faetec.rj.gov.br/)
@@ -69,7 +69,7 @@
     * [📜](./Certificados/Certificado-Windows2.jpg) <span title="60 Hrs">Informática - Windows 2.</span>
     * 📜 <span>Excel.</span>
     * [📜](./Certificados/Certificado-Montagem.jpg) <span title="160 Hrs"> Montagem e Manuntenção de Computadores.</span>
-    * 📜 <span>Editoração Eletrônica.</span>
+    * [📜](./Certificados/certificado-faetec.pdf) <span title="240 Hrs">Editoração Eletrônica.</span>
 <br>    
 
 * [**Nave do Conhecimento:**](https://navedoconhecimento.rio/)
