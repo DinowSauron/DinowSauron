@@ -71,7 +71,6 @@
 * [**Faetec:**](http://www.faetec.rj.gov.br/)
     * [📜](./Certificados/Certificado-Windows1.jpg) <span title="60 Hrs">Informática - Windows 1.</span>
     * [📜](./Certificados/Certificado-Windows2.jpg) <span title="60 Hrs">Informática - Windows 2.</span>
-    * 📜 <span>Excel.</span>
     * [📜](./Certificados/Certificado-Montagem.jpg) <span title="160 Hrs"> Montagem e Manuntenção de Computadores.</span>
     * [📜](./Certificados/certificado-editoraçao.pdf) <span title="240 Hrs">Editoração Eletrônica.</span>
 <br>    
