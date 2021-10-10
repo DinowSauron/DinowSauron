@@ -56,7 +56,7 @@ Estudante de desenvolvimento web Front-End e Back-End com conhecimentos de progr
     </li>
     <li>
         <p>📌 Canais No Youtube:
-         <ul >
+         <ul>
              <li><a href="https://www.youtube.com/c/THERedstoneBR"><img src="https://img.shields.io/badge/Youtube-The%20Redstone%20BR-red" 
              alt="The Redstone BR"
              title="Canal de Tutoriais"/></a></li>
@@ -72,9 +72,9 @@ Estudante de desenvolvimento web Front-End e Back-End com conhecimentos de progr
 
 <p>
 <a href="https://github.com/DinowSauron"><img 
-src="https://github-readme-stats.vercel.app/api?username=DinowSauron&icon_color=039f02&show_icons=true&theme=dracula&title_color=039f02&include_all_commits=true&count_private=true" alt="Luiz Claudio GitHub profile reputation" 
+src="https://github-readme-stats.vercel.app/api?username=DinowSauron&icon_color=039f02&show_icons=true&theme=dracula&title_color=039f02&include_all_commits=true&count_private=true&locale=pt-br" alt="Luiz Claudio GitHub profile reputation" 
 width="54%"/></a>
-<a href="https://github.com/DinowSauron"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinowSauron&layout=compact&card_width=300px&title_color=039f02&theme=dracula" alt="Luiz Claudio code usage"  
+<a href="https://github.com/DinowSauron"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinowSauron&layout=compact&card_width=300px&title_color=039f02&theme=dracula&locale=pt-br" alt="Luiz Claudio code usage"  
 width="45.2%"/></a>
 </p>
 
