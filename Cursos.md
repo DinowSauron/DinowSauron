@@ -35,6 +35,7 @@
   * [📃](https://github.com/DinowSauron/Projeto-Next-Level-Week-4)<span>Next Level Week #4. <em>(React)</em></span>
   * [📃](https://github.com/DinowSauron/Projeto-Next-Level-Week-5)<span>Next Level Week #5. <em>(React)</em></span>
   * [📃](https://github.com/DinowSauron/Projeto-Next-Level-Week-6-Together)<span>Next Level Week #6. <em>(React)</em></span>
+  * [📃](https://github.com/DinowSauron/Projeto-Next-Level-Week-7-Heat)<span>Next Level Week #7. <em>(React, ReactNative, Node, Elixir)</em></span>
   * [📜](./Certificados/certificado-dowhile.pdf) <span>DoWhile 2020.</span>
 <br>
 
