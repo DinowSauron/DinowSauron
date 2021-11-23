@@ -30,7 +30,7 @@ Estudante de desenvolvimento web Front-End e Back-End com conhecimentos de progr
 
 <ul type="none">
     <li>
-    <p align="center">📘 #NeverStopLearning 📘</p>
+      <p align="center">📘 <a href="https://luizclaudiocardoso.vercel.app">Portfólio</a> 📘</p>
     </li>
 <br>
     <li>
@@ -45,14 +45,14 @@ Estudante de desenvolvimento web Front-End e Back-End com conhecimentos de progr
         title="Linked-in profile"/></a> </p>
     </li>
     <li>
-        <p>📄 Repositorios: <a href="https://github.com/DinowSauron?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-DarkGreen" 
+        <p>📄 Projetos: <a href="https://luizclaudiocardoso.vercel.app/projects/web?tags=todos"><img src="https://img.shields.io/badge/GitHub-Repositories-DarkGreen" 
         alt="Git Repositories" 
         title="Detalhes dos Repositorios"/></a> </p>
     </li>
     <li>
-        <p>🎲 Modelos em 3D: <a href="#"><img src="https://img.shields.io/badge/-Coming%20Soon-lightgrey" 
-        alt="Models 3D In Coming soon..." 
-        title="Não Disponível..."/></a> </p>
+        <p>🎲 Modelos em 3D: <a href="https://luizclaudiocardoso.vercel.app/projects/others/modelos"><img src="https://img.shields.io/badge/-Modelos%203D-lightgrey" 
+        alt="Models 3D" 
+        title="Fotos de dos modelos 3D"/></a></p>
     </li>
     <li>
         <p>📌 Canais No Youtube:
