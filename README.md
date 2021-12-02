@@ -34,10 +34,10 @@ Estudante de desenvolvimento web Front-End e Back-End com conhecimentos de progr
     </li>
 <br>
     <li>
-        <p>🚀 Conhecimentos: <strong>C#, Unity3D, Blender, Python, HTML5, CSS3;</strong> </p>
+        <p>🚀 Conhecimentos: <strong>Html, Css | Sass, Javascript, ReactJS, NextJS, Typescript</strong> </p>
     </li>
     <li>
-        <p>📖 Estudando: <strong>Javascript, React, Next.js, TypeScript;</strong ></p>
+        <p>📖 Estudando: <strong>React Native | Flutter</strong ></p>
     </li>
     <li>
         <p>🔗 My Linked In: <a href="https://www.linkedin.com/in/luiz-claudio-cardoso/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" 
