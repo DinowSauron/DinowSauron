@@ -5,13 +5,14 @@
   Cursos Realizados &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DinowSauron">Github</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/luiz-claudio-cardoso/">Linkedin</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://dinowsauron.github.io/">Destaques</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.google.com.br/maps/place/Realengo,+Rio+de+Janeiro+-+RJ/@-22.8784762,-43.4730305,13z/data=!3m1!4b1!4m5!3m4!1s0x9961d6352b312f:0xdbcc937520fa83fc!8m2!3d-22.8786514!4d-43.4285152"
   title="Endereço aproximado"
   >Endereço</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="mailto:luizclaudiocardoso@yahoo.com"
   title="LuizClaudioCardoso@gmail.com">Email</a>
 </p>
+
+
 
 
 <p>
@@ -26,6 +27,11 @@
 <br>
 <br>
 
+## VEJA UMA VERSÃO MAIS ATUALIZADA NO LINK ABAIXO:
+
+#### <a href=https://luizclaudiocardoso.vercel.app/certificates>https://luizclaudiocardoso.vercel.app/certificates</a>
+
+---
 
 
 ## Eventos:
@@ -37,11 +43,13 @@
   * [📃](https://github.com/DinowSauron/Projeto-Next-Level-Week-6-Together)<span>Next Level Week #6. <em>(React)</em></span>
   * [📃](https://github.com/DinowSauron/Projeto-Next-Level-Week-7-Heat)<span>Next Level Week #7. <em>(React, ReactNative, Node, Elixir)</em></span>
   * [📜](./Certificados/certificado-dowhile.pdf) <span>DoWhile 2020.</span>
+  * [📜](https://luizclaudiocardoso.vercel.app/certificates/dowhile2021.jpg) <span>DoWhile 2021.</span>
 <br>
 
 
 * [**Alura:**](https://www.alura.com.br/)
   * Imersão DEV_ #2 <em>(HTML)</em>
+  * Imersão DEV_ #3 <em>(HTML)</em>
   * [📃](https://github.com/DinowSauron/Outerkut)Imersão React #2 <em>(ReactJS)</em>
 
 
@@ -54,6 +62,7 @@
 
 * [**Rocketseat:**](https://rocketseat.com.br/)
     * <span>Discover <em>(Html5, Css3, JS, git, github)</em></span>
+    * <span>Ignite <em>(ReactJS | NextJS)</em></span>
 <br>
 
 * [**Curso Em Vídeo:**](https://www.cursoemvideo.com/)
