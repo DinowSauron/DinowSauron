@@ -12,8 +12,8 @@ width="45%" align="right" draggable="false"/>
 # Prazer, Luiz Claudio.
 
 <p align="center">
-  <a href="https://luizclaudiocardoso.vercel.app/certificates" target="_blank">Competências</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://luizclaudiocardoso.vercel.app/projects/web?tags=todos" target="_blank">Destaques</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://luizclaudio.dev.br/certificates" target="_blank">Competências</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://luizclaudio.dev.br/projects/web?tags=todos" target="_blank">Destaques</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://www.google.com.br/maps/place/Realengo,+Rio+de+Janeiro+-+RJ/@-22.8784762,-43.4730305,13z/data=!3m1!4b1!4m5!3m4!1s0x9961d6352b312f:0xdbcc937520fa83fc!8m2!3d-22.8786514!4d-43.4285152" target="_blank"
   title="Endereço aproximado"
   >Endereço</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -30,8 +30,8 @@ Estudante de desenvolvimento web Front-End e Back-End com conhecimentos de progr
 
 <ul type="none">
     <li>
-        <p align="center">📘 <a href="https://luizclaudiocardoso.vercel.app">Acesse o meu Portfólio</a> 📘</p>
-        <h5 align="center"><a href="https://luizclaudiocardoso.vercel.app">https://luizclaudiocardoso.vercel.app</a></h5>
+        <p align="center">📘 <a href="https://luizclaudio.dev.br">Acesse o meu Portfólio</a> 📘</p>
+        <h5 align="center"><a href="https://luizclaudio.dev.br">https://luizclaudio.dev.br</a></h5>
     </li>
 <br>
     <li>
@@ -46,12 +46,12 @@ Estudante de desenvolvimento web Front-End e Back-End com conhecimentos de progr
         title="Linked-in profile"/></a> </p>
     </li>
     <li>
-        <p>📄 Projetos: <a href="https://luizclaudiocardoso.vercel.app/projects/web?tags=todos"><img src="https://img.shields.io/badge/GitHub-Repositories-DarkGreen" 
+        <p>📄 Projetos: <a href="https://luizclaudio.dev.br/projects/web?tags=todos"><img src="https://img.shields.io/badge/GitHub-Repositories-DarkGreen" 
         alt="Git Repositories" 
         title="Detalhes dos Repositorios"/></a> </p>
     </li>
     <li>
-        <p>🎲 Modelos em 3D: <a href="https://luizclaudiocardoso.vercel.app/projects/others/modelos"><img src="https://img.shields.io/badge/-Modelos%203D-lightgrey" 
+        <p>🎲 Modelos em 3D: <a href="https://luizclaudio.dev.br/projects/others/modelos"><img src="https://img.shields.io/badge/-Modelos%203D-lightgrey" 
         alt="Models 3D" 
         title="Fotos de dos modelos 3D"/></a></p>
     </li>
