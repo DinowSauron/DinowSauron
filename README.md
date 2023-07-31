@@ -22,7 +22,7 @@ width="45%" align="right" draggable="false"/>
 </p>
 
 <p align="justify">
-Estudante de desenvolvimento web Front-End e Back-End com conhecimentos de programação, e desenvolvimento de aplicações para a Web, no momento, não possuindo emprego e estou a procura do meu primeiro trabalho nesta área !
+Atualmente trabalhando no desenvolvimento web FullStack!
 </p>
 
 
